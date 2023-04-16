@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "nodemon": "^2.0.22",
     "react": "16.11.0",
     "react-dom": "16.11.0"
   },
